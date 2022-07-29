@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwsmworld"]=self["webpackChunkwsmworld"]||[]).push([[666],{463:function(n,e,r){r.r(e),r.d(e,{default:function(){return c}});var s=r(252);function u(n,e,r,u,t,o){return(0,s.wg)(),(0,s.iD)("div",null," works page ")}var t={name:"WorksPage",components:{},setup(){}},o=r(744);const a=(0,o.Z)(t,[["render",u]]);var c=a}}]);
+//# sourceMappingURL=Works.ffe8c212.js.map

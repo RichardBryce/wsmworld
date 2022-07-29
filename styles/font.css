@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Home';
+    src: url('../fonts/LeferiBaseRegular.woff') format('woff'),
+        url('../fonts/LeferiBaseRegular.woff2') format('woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Home';
+    src: url('../fonts/LeferiBaseBold.woff') format('woff'),
+        url('../fonts/LeferiBaseBold.woff2') format('woff2');
+    font-weight: 700;
+}
