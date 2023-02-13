@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkWSMWORLD"]=self["webpackChunkWSMWORLD"]||[]).push([[187],{5527:function(n,e,u){u.r(e),u.d(e,{default:function(){return s}});var t=u(6252);function r(n,e,u,r,o,a){return(0,t.wg)(),(0,t.iD)("div",null," Not Found page ")}var o={name:"NotFoundPage",components:{},setup(){}},a=u(3744);const c=(0,a.Z)(o,[["render",r]]);var s=c}}]);
+//# sourceMappingURL=NotFound.0fee6154.js.map
